@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "memesis": {
+      "url": "https://testmeme.naraso.org/mcp",
+      "headers": {
+        "Authorization": "ApiKey YOUR_API_KEY_HERE"
+      }
+    }
+  }
+}

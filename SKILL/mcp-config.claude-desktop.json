@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "memesis": {
+      "transport": "http",
+      "url": "https://testmeme.naraso.org/mcp",
+      "headers": {
+        "Authorization": "ApiKey YOUR_API_KEY_HERE"
+      },
+      "description": "Memesis.ai Solana Meme Token Trading Platform"
+    }
+  }
+}
